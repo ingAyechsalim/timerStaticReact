@@ -1,2 +1,0 @@
-# timerStaticReact
-Created with CodeSandbox

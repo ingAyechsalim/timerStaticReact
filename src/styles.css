@@ -1,0 +1,10 @@
+.Timer-static {
+  width: 200px;
+  height: 100px;
+background-color: wheat;
+  font-family: sans-serif;
+    display: flex;
+  padding: 10px;  
+border-radius: 5px 3px
+padding:5px;
+}
